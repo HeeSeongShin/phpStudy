@@ -7,10 +7,10 @@
   <title>Document</title>
 </head>
 <body>
-  <a href="./login.php">
+  <a href="./login_form.php">
     <button>로그인</button>
   </a>
-  <a href="https://naver.com/" target="_blank">
+  <a href="./register_form.php">
     <button>회원가입</button>
   </a>
 </body>
