@@ -11,6 +11,8 @@
     <input type="text" name="id"/>
     <input type="text" name="pw"/>
     <button>제출</button>
+
+    <div>클론</div>
   </form>
 </body>
 </html>
