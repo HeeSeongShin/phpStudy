@@ -7,12 +7,11 @@
   <title>Document</title>
 </head>
 <body>
-  <form method="POST" action="./submit.php">
-    <input type="text" name="id"/>
-    <input type="text" name="pw"/>
-    <button>제출</button>
-
-    <div>클론</div>
-  </form>
+  <a href="./login.php">
+    <button>로그인</button>
+  </a>
+  <a href="https://naver.com/" target="_blank">
+    <button>회원가입</button>
+  </a>
 </body>
 </html>

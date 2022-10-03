@@ -1,8 +1,10 @@
 <?php
-  function login() {
-    // 로그인 처리
-    header("Location: ./view.php");
-  }
+  $email = $_POST["email"];
+  $name = $_POST["name"];
+  $pw = $_POST["pw"];
 
-  login();
+  echo "이메일: " . $email . "<br>";
+  echo("이메일: $email");
+  echo("이름: + $name");
+  echo("패스워드: $pw");
 ?>
