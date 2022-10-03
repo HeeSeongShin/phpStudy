@@ -1,1 +1,7 @@
-{"user":[{"email":"gmltjd","name":"gmltjd","pw":"gmltjd"},{"email":"gmlrkjd","name":"gmlrkd","pw":"gmlrkd"}]}
+{
+  "user": [
+    { "email": "gmlrkjd", "name": "gmlrkd", "pw": "gmlrkd" },
+    { "email": "gmltjd", "name": "gmltjd", "pw": "gmltjd" },
+    { "email": "asd", "name": "asd", "pw": "asd" }
+  ]
+}

@@ -7,6 +7,10 @@
   <title>Document</title>
 </head>
 <body>
-  view
+  <form method="POST"action="./login_submit.php">
+    <input type="text" name="email"/>
+    <input type="text" name="pw"/>
+    <button>확인</button>
+  </form>
 </body>
 </html>
