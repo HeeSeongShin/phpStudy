@@ -1,7 +1,1 @@
-{
-  "user": [
-    { "email": "gmlrkjd", "name": "gmlrkd", "pw": "gmlrkd" },
-    { "email": "gmltjd", "name": "gmltjd", "pw": "gmltjd" },
-    { "email": "asd", "name": "asd", "pw": "asd" }
-  ]
-}
+{"user":[{"email":"gmlrkjd","name":"gmlrkd","pw":"gmlrkd"},{"email":"gmltjd","name":"gmltjd","pw":"gmltjd"},{"email":"asd","name":"asd","pw":"asd"},{"email":"asdasdasd","name":"asdadsasd","pw":"asdasdasd"}]}
